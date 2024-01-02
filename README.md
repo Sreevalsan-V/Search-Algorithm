@@ -114,12 +114,18 @@ else:
 ## Output
 
 i)
+
+
 ![Alt text](image.png)
 
 ii)
+
+
 ![Alt text](image-1.png)
 
 iii)
+
+
 ![Alt text](image-2.png)
 
 ## Result
